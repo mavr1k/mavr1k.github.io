@@ -1,0 +1,19 @@
+body {
+  min-height: 100vh;
+  background: #3f3f3f;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.text {
+  color: #fff;
+  text-align: center;
+}
